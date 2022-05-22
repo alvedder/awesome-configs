@@ -6,4 +6,8 @@
 
 ### ESLint config for an Angular app
 
-[.eslintrc.cjs](./.eslintrc.cjs)
+[.eslintrc.js](./.eslintrc.js)
+
+### Prettier config
+
+[.prettierrc.json](./.prettierrc.json)

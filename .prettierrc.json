@@ -1,0 +1,22 @@
+{
+    "trailingComma": "all",
+    "tabWidth": 4,
+    "useTabs": false,
+    "singleQuote": false,
+    "semi": true,
+    "htmlWhitespaceSensitivity": "strict",
+    "endOfLine": "auto",
+    "quoteProps": "as-needed",
+    "printWidth": 300,
+    "arrowParens": "always",
+    "bracketSpacing": false,
+    "bracketSameLine": true,
+    "overrides": [
+        {
+            "files": "*.component.html",
+            "options": {
+                "printWidth": 150
+            }
+        }
+    ]
+}
